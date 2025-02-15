@@ -1,0 +1,9 @@
+# Ignore all files with .log extension
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all .env files in the project
+.env
+.env.*
